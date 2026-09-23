@@ -1,0 +1,17 @@
+# Environment / secrets
+.env
+*.env
+
+# Generated data
+AmazonWebScraperDataset.csv
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
